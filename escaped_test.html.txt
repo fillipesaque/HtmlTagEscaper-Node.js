@@ -1,0 +1,22 @@
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div&gt;
+        &lt;h1&gt;Algum Titulo&lt;/h1&gt;
+    &lt;/div&gt;
+
+    &lt;div&gt;
+        &lt;section&gt;
+            &lt;form action=""&gt;
+                &lt;label for=""&gt;Input 01&lt;/label&gt;
+                &lt;input type="text"&gt;
+            &lt;/form&gt;
+        &lt;/section&gt;
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
